@@ -26,5 +26,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/darklusifer">
 <br>
 
-### Tool by <a href="https://t.me/about_darklusifer">ᴹᴿDΔRK LUSIҒΞR</a> <img align="top" src="https://graph.org/file/5fee3073834224789ab9c.png" width="50" style="border-raduce: 50%;">
+### Tool by <a href="https://t.me/about_darklusifer">ᴹᴿDΔRK LUSIҒΞR</a> <img align="center" src="https://graph.org/file/5fee3073834224789ab9c.png" width="50" style="border-raduce: 50%;">
   
