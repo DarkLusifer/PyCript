@@ -1,7 +1,9 @@
-<img src="https://github.com/DarkLusifer/PyCript/blob/main/pycript.png">
+<p align="center">
+  <img src="https://github.com/DarkLusifer/PyCript/blob/main/pycript.png">
+</p>
 <br><br>
 <p>This is advanced python codes encoder. You can easily enter the file path that you want to encrypt and it will be encrypted.</p>
-<br>
+
 * *This tool will be helped to developer while they release their's developments.*
 <br><br>
 ### Installation
