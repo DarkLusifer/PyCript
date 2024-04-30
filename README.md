@@ -10,7 +10,7 @@
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/darklusifer/pycript.git
+  git clone https://github.com/darklusifer/pycript.git
   ```
 
 - Then native the directory -
